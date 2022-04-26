@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi there! I'm Cody 👋
 
-<!--
-**Cody-Wise/Cody-Wise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm located in Portland, Oregon.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning full-stack software deveopment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎒 I will be graduating from Alchemy Code Lab in September 2022.
+
+I am hoping to join a fun team to showcase my JS skills and help the company grow and make differences in people's lives.
+
+📫 You can reach me at codyaricwise@gmail.com
+
+Thanks for checking out my profile!
+
+Cody
+
+Current Tech Journey:
+
+- Languages: JavaScript, HTML, CSS
+- Libraries: React
+- Version Control: GitHub
+- Tools: Git, Slack, Miro, Netlify, VS Code
+- Dev Practices: TDD, Pair Programming 
+- Databases: Supabase
+- Testing: Qunit
