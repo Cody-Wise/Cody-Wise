@@ -10,10 +10,6 @@ I am hoping to join a fun team to showcase my JS skills and help the company gro
 
 📫 You can reach me at codyaricwise@gmail.com
 
-Thanks for checking out my profile!
-
-Cody
-
 Current Tech Journey:
 
 - Languages: JavaScript, HTML, CSS
@@ -23,3 +19,7 @@ Current Tech Journey:
 - Dev Practices: TDD, Pair Programming 
 - Databases: Supabase
 - Testing: Qunit
+
+Thanks for checking out my profile!
+
+Cody
