@@ -13,12 +13,12 @@ I am hoping to join a fun team to showcase my JS skills and help the company gro
 Current Tech Journey:
 
 - Languages: JavaScript, HTML, CSS
-- Libraries: React
+- Libraries: React, Node.js, Express.js, Webpack, Material-UI
 - Version Control: GitHub
-- Tools: Git, Slack, Miro, Netlify, VS Code
-- Dev Practices: TDD, Pair Programming 
-- Databases: Supabase
-- Testing: Qunit
+- Tools: Git, Miro, Netlify, VS Code, Postman, Heroku
+- Dev Practices: TDD, Pair Programming, Red Green Refactor 
+- Databases: Supabase, Postgres/SQL
+- Testing: Qunit, Jest, React Testing Library
 
 Thanks for checking out my profile!
 
